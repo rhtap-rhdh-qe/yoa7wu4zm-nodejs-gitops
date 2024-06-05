@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yoa7wu4zm-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/yoa7wu4zm-nodejs
